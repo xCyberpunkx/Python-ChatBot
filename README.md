@@ -21,3 +21,7 @@ Set up OpenAI API
 Sign up for an API key at the OpenAI website.
 Set the API key as an environment variable in your terminal:
 export OPENAI_API_KEY='your-api-key'
+
+Usage
+To use the GPT Bot, run the following command:
+python bot.py
